@@ -18,3 +18,5 @@
 | Same Period Last Year for KPI |	https://www.youtube.com/watch?v=pEJNSF88Ef0 |
 | Parallel Period for KPI |	https://www.youtube.com/watch?v=sYb2-e-pk7k |
 | Dates in Period - Static Dynamic |	https://www.youtube.com/watch?v=PFT4oR4c9Qs |
+| Dates Between using Start of Month and End of Month |	https://www.youtube.com/watch?v=1k6zdnafd-0 |
+
