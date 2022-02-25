@@ -19,4 +19,5 @@
 | Parallel Period for KPI |	https://www.youtube.com/watch?v=sYb2-e-pk7k |
 | Dates in Period - Static Dynamic |	https://www.youtube.com/watch?v=PFT4oR4c9Qs |
 | Dates Between using Start of Month and End of Month |	https://www.youtube.com/watch?v=1k6zdnafd-0 |
-
+| Dates Between using Start of Month and End of Month |	https://www.youtube.com/watch?v=1k6zdnafd-0 |
+| All, AllExcept, AllSelected, % Calculation | https://www.youtube.com/watch?v=BlO3Bp9bNws |
