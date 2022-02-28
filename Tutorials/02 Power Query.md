@@ -7,3 +7,4 @@
 | Custom Functions | https://www.youtube.com/watch?v=EfC9mgtomjs |
 | Fill Up and Down in Power Query | https://www.youtube.com/watch?v=mziQe8j4z2g |
 | Exception Handling in Power Query | https://www.youtube.com/watch?v=UPrXdEjs4R8 |
+| Refresh with deleted Columns in new Dataset | https://www.youtube.com/watch?v=bPOQCDluVs8 |
