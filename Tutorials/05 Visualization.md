@@ -10,3 +10,4 @@
 | Area Chart|	https://www.youtube.com/watch?v=bhfjE77GERI |
 | Combo Chart|	https://www.youtube.com/watch?v=BkbYI38EXnw |
 | Slicer - Advanced usage|	https://www.youtube.com/watch?v=4XXsypqq6A4 |
+| Un Filter Card Visualization | https://www.youtube.com/watch?v=ddklO8QlQ_E |
