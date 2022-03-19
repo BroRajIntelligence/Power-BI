@@ -22,3 +22,4 @@
 | Dates Between using Start of Month and End of Month |	https://www.youtube.com/watch?v=1k6zdnafd-0 |
 | All, AllExcept, AllSelected, % Calculation | https://www.youtube.com/watch?v=BlO3Bp9bNws |
 | Last Purchase Date | https://www.youtube.com/watch?v=gcW20FCAKag |
+| Use of ALL in getting the difference | https://www.youtube.com/watch?v=3gKeOn3rdx0 |
