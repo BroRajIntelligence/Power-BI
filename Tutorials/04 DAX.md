@@ -24,3 +24,4 @@
 | Last Purchase Date | https://www.youtube.com/watch?v=gcW20FCAKag |
 | Use of ALL in getting the difference | https://www.youtube.com/watch?v=3gKeOn3rdx0 |
 | Previous Month using Parallel Period, Previous Month & Date Add | https://www.youtube.com/watch?v=8MkQR57-JO8 |
+| Summarize with Filters | https://www.youtube.com/watch?v=w5Qk7dRqMgQ |
