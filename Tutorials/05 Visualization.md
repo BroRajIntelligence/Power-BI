@@ -12,3 +12,4 @@
 | Slicer - Advanced usage|	https://www.youtube.com/watch?v=4XXsypqq6A4 |
 | Un Filter Card Visualization | https://www.youtube.com/watch?v=ddklO8QlQ_E |
 | Change of Column or Measure by Selection of Slicer | https://www.youtube.com/watch?v=FpsDBAuQFtY |
+| Add & Remove Columns Dynamically | https://www.youtube.com/watch?v=F94Kg0YlRFE |
