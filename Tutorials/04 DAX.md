@@ -27,3 +27,4 @@
 | Summarize with Filters | https://www.youtube.com/watch?v=w5Qk7dRqMgQ |
 | Ranking using Related Table | https://www.youtube.com/watch?v=5fssTqaGsS4 |
 | Summarize as Temp Table | https://www.youtube.com/watch?v=mmGw6j18DyU |
+| Dynamic Summary of latest Month | https://www.youtube.com/watch?v=UsAlW9NK5iA |
