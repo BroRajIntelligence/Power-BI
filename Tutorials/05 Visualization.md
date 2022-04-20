@@ -15,3 +15,4 @@
 | Add & Remove Columns Dynamically | https://www.youtube.com/watch?v=F94Kg0YlRFE |
 | Top 5 and Bottom 5 using basic visual filter | https://www.youtube.com/watch?v=m6v5RHjIgdA |
 | Sparklines in Tables and Matrix | https://www.youtube.com/watch?v=ks4H_UqPKGo |
+| Dynamic Summary of latest Month | https://www.youtube.com/watch?v=UsAlW9NK5iA |
