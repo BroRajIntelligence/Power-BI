@@ -28,3 +28,4 @@
 | Ranking using Related Table | https://www.youtube.com/watch?v=5fssTqaGsS4 |
 | Summarize as Temp Table | https://www.youtube.com/watch?v=mmGw6j18DyU |
 | Dynamic Summary of latest Month | https://www.youtube.com/watch?v=UsAlW9NK5iA |
+| Isfiltered and IsCrossFiltered | https://www.youtube.com/watch?v=3ENKa0QgvJI |
