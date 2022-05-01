@@ -31,3 +31,4 @@
 | Isfiltered and IsCrossFiltered | https://www.youtube.com/watch?v=3ENKa0QgvJI |
 | Keep Filters | https://www.youtube.com/watch?v=x7HIIPLEqzc |
 | WeekEnds using IF | https://www.youtube.com/watch?v=4ED-McYN0f8 
+| First day of Current Month | https://www.youtube.com/watch?v=koyBdVMxe6A |
