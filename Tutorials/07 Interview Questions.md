@@ -5,3 +5,4 @@
  | Sort by Fiscal Month | https://www.youtube.com/watch?v=Z2kqi1ccpUo |
 | Last Purchase Date | https://www.youtube.com/watch?v=gcW20FCAKag |
 | Use of ALL in getting the difference | https://www.youtube.com/watch?v=3gKeOn3rdx0 |
+| First day of Current Month | https://www.youtube.com/watch?v=koyBdVMxe6A |
