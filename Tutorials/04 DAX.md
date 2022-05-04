@@ -33,3 +33,4 @@
 | WeekEnds using IF | https://www.youtube.com/watch?v=4ED-McYN0f8 
 | First day of Current Month | https://www.youtube.com/watch?v=koyBdVMxe6A |
 | Month over Month MoM and % | https://www.youtube.com/watch?v=t573yfnUJ-0 |
+| IsInScope in Power BI DAX using ALL | https://www.youtube.com/watch?v=6GqH-dcbcoY |
