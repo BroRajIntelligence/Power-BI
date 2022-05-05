@@ -18,3 +18,4 @@
 | Dynamic Summary of latest Month | https://www.youtube.com/watch?v=UsAlW9NK5iA |
 | Drill through in Visualization | https://www.youtube.com/watch?v=KTVzWss_-vI |
 | Creating Hierarchies - Drill Down | https://www.youtube.com/watch?v=wdxKkxciZLo |
+| ToolTips in Report Pages | https://www.youtube.com/watch?v=rNoU83v6Syk |
