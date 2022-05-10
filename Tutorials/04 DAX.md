@@ -36,3 +36,4 @@
 | IsInScope in Power BI DAX using ALL | https://www.youtube.com/watch?v=6GqH-dcbcoY |
 | Treatas in DAX for Unrelated Tables | https://www.youtube.com/watch?v=3ce8Foka548 |
 | Creating Calendar Dimension Table | https://www.youtube.com/watch?v=vYtE6qdYRdg |
+| Year over Year (YoY) variance % | https://www.youtube.com/watch?v=qMqQv6MMPH0 |
