@@ -37,3 +37,4 @@
 | Treatas in DAX for Unrelated Tables | https://www.youtube.com/watch?v=3ce8Foka548 |
 | Creating Calendar Dimension Table | https://www.youtube.com/watch?v=vYtE6qdYRdg |
 | Year over Year (YoY) variance % | https://www.youtube.com/watch?v=qMqQv6MMPH0 |
+| Changing Currency symbols and exchange rates dynamically | https://www.youtube.com/watch?v=ua-IgxEOUDQ |
