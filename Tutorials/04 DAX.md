@@ -39,3 +39,4 @@
 | Year over Year (YoY) variance % | https://www.youtube.com/watch?v=qMqQv6MMPH0 |
 | Changing Currency symbols and exchange rates dynamically | https://www.youtube.com/watch?v=ua-IgxEOUDQ |
 | Current Month and Previous Month Total | https://www.youtube.com/watch?v=bPL20ID5mRE |
+| Dense in RankX | https://www.youtube.com/watch?v=J5S9u8fQweg |
