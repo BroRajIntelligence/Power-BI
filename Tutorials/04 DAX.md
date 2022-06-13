@@ -40,4 +40,4 @@
 | Changing Currency symbols and exchange rates dynamically | https://www.youtube.com/watch?v=ua-IgxEOUDQ |
 | Current Month and Previous Month Total | https://www.youtube.com/watch?v=bPL20ID5mRE |
 | Dense in RankX | https://www.youtube.com/watch?v=J5S9u8fQweg |
-| Week Number of Month | Link |
+| Week Number of Month | https://www.youtube.com/watch?v=Fjto1UP7_vA |
