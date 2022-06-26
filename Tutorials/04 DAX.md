@@ -41,3 +41,4 @@
 | Current Month and Previous Month Total | https://www.youtube.com/watch?v=bPL20ID5mRE |
 | Dense in RankX | https://www.youtube.com/watch?v=J5S9u8fQweg |
 | Week Number of Month | https://www.youtube.com/watch?v=Fjto1UP7_vA |
+| Generate and GenerateAll | https://www.youtube.com/watch?v=18OsTRjOyMY |
