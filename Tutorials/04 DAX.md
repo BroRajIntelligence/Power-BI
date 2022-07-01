@@ -42,3 +42,4 @@
 | Dense in RankX | https://www.youtube.com/watch?v=J5S9u8fQweg |
 | Week Number of Month | https://www.youtube.com/watch?v=Fjto1UP7_vA |
 | Generate and GenerateAll | https://www.youtube.com/watch?v=18OsTRjOyMY |
+| Last 7 days sales from selected date | https://www.youtube.com/watch?v=-NjHgoqJO6Y |
