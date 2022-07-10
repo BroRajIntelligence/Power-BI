@@ -7,3 +7,4 @@
 | Use of ALL in getting the difference | https://www.youtube.com/watch?v=3gKeOn3rdx0 |
 | First day of Current Month | https://www.youtube.com/watch?v=koyBdVMxe6A |
 | Last 7 days sales from selected date | https://www.youtube.com/watch?v=-NjHgoqJO6Y |
+| YTD in Direct Query Mode | https://www.youtube.com/watch?v=sWK9RDk-eQo |
