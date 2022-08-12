@@ -21,3 +21,4 @@
 | ToolTips in Report Pages | https://www.youtube.com/watch?v=rNoU83v6Syk |
 | Field Parameters for dynamic measure selection | https://www.youtube.com/watch?v=hq9It7Pq8UA |
 | Page Navigator | https://www.youtube.com/watch?v=dhQxeYJwMok |
+| Measure Summary | https://www.youtube.com/watch?v=YVUDehBh2DE |
