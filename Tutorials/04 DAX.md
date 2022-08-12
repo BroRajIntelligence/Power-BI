@@ -46,3 +46,4 @@
 | YTD in Direct Query Mode | https://www.youtube.com/watch?v=sWK9RDk-eQo |
 | MTD in Direct Query Mode | https://www.youtube.com/watch?v=knHqsU4xuds |
 | Remove Filters | https://www.youtube.com/watch?v=teAG4Q_VRe4 |
+| Measure Summary | https://www.youtube.com/watch?v=YVUDehBh2DE |
