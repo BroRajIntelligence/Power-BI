@@ -1,5 +1,6 @@
 | Topic | Link |
 | ----- | ---- |
+| DAX Formatter | https://www.youtube.com/watch?v=HFaIV3xDveg |
 | Calculated Column and Measures in Power BI |	https://www.youtube.com/watch?v=EsHVu027K6k |
 | DAX - Related Table in Power BI |	https://www.youtube.com/watch?v=sBkcR_6mbcM |
 | Advanced DAX |	https://www.youtube.com/watch?v=-yw3mxyPotA |
