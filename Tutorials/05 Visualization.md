@@ -22,3 +22,4 @@
 | Field Parameters for dynamic measure selection | https://www.youtube.com/watch?v=hq9It7Pq8UA |
 | Page Navigator | https://www.youtube.com/watch?v=dhQxeYJwMok |
 | Measure Summary | https://www.youtube.com/watch?v=YVUDehBh2DE |
+| Q&A Synonym and Teach | https://www.youtube.com/watch?v=wAmA8aPKb8c |
