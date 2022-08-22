@@ -48,3 +48,4 @@
 | MTD in Direct Query Mode | https://www.youtube.com/watch?v=knHqsU4xuds |
 | Remove Filters | https://www.youtube.com/watch?v=teAG4Q_VRe4 |
 | Measure Summary | https://www.youtube.com/watch?v=YVUDehBh2DE |
+| Total from Selected Date | https://www.youtube.com/watch?v=Q7ELmNNXiLc |
