@@ -49,3 +49,4 @@
 | Remove Filters | https://www.youtube.com/watch?v=teAG4Q_VRe4 |
 | Measure Summary | https://www.youtube.com/watch?v=YVUDehBh2DE |
 | Total from Selected Date | https://www.youtube.com/watch?v=Q7ELmNNXiLc |
+| Average of Selected Last Months Dynamically | https://www.youtube.com/watch?v=GA_GDoOis1o |
