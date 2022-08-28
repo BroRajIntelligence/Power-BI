@@ -52,3 +52,4 @@
 | Average of Selected Last Months Dynamically | https://www.youtube.com/watch?v=GA_GDoOis1o |
 | Rolling total for 30 days | https://www.youtube.com/watch?v=yEN8GyhzgvE |
 | PATH Parent Child Hierarchy | https://www.youtube.com/watch?v=cm5U3JQGThg |
+| Network Days | https://www.youtube.com/watch?v=3fPOL17nrwc |
