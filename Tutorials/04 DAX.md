@@ -53,3 +53,4 @@
 | Rolling total for 30 days | https://www.youtube.com/watch?v=yEN8GyhzgvE |
 | PATH Parent Child Hierarchy | https://www.youtube.com/watch?v=cm5U3JQGThg |
 | Network Days | https://www.youtube.com/watch?v=3fPOL17nrwc |
+| Values() vs Distinct() | https://www.youtube.com/watch?v=qQoa9R7nedA |
