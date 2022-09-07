@@ -10,3 +10,4 @@
 | YTD in Direct Query Mode | https://www.youtube.com/watch?v=sWK9RDk-eQo |
 | MTD in Direct Query Mode | https://www.youtube.com/watch?v=knHqsU4xuds |
 | Values() vs Distinct() | https://www.youtube.com/watch?v=qQoa9R7nedA |
+| AddColumns vs SelectColumns | https://www.youtube.com/watch?v=NkifLg7kglU |
