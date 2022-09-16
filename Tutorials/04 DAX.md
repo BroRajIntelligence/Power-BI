@@ -55,3 +55,4 @@
 | Network Days | https://www.youtube.com/watch?v=3fPOL17nrwc |
 | Values() vs Distinct() | https://www.youtube.com/watch?v=qQoa9R7nedA |
 | AddColumns vs SelectColumns | https://www.youtube.com/watch?v=NkifLg7kglU |
+| Replace vs Substitute | https://www.youtube.com/watch?v=6cM4dr0_IM4 |
