@@ -13,3 +13,4 @@
 | GroupBy using Text Datatype | https://www.youtube.com/watch?v=6_m15c_QocQ |
 | Transpose vs UnPivot in Power Query | https://www.youtube.com/watch?v=ZG3XwQ3za5k |
 | Using Pivot Table | https://www.youtube.com/watch?v=aS-jOP7wru8 |
+| Remove Rows | https://www.youtube.com/watch?v=ton3KQksOV0 |
