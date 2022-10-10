@@ -57,3 +57,4 @@
 | AddColumns vs SelectColumns | https://www.youtube.com/watch?v=NkifLg7kglU |
 | Replace vs Substitute | https://www.youtube.com/watch?v=6cM4dr0_IM4 |
 | YTD without Time Intelligence functions | https://www.youtube.com/watch?v=VrhNQGfvOXY |
+| Rolling Average of 7 Days | https://www.youtube.com/watch?v=BUNnQmbVqpQ |
