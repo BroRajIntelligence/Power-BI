@@ -60,3 +60,4 @@
 | Rolling Average of 7 Days | https://www.youtube.com/watch?v=BUNnQmbVqpQ |
 | Value() Dax Text function | https://www.youtube.com/watch?v=dgIJTT_VOU4 |
 | Numeric to Date conversion | https://www.youtube.com/watch?v=WBDySPXKKL4 |
+| Last 6 Months from selected Date | https://www.youtube.com/watch?v=zwPzT3vrc0w |
