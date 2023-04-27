@@ -15,3 +15,4 @@
 | Using Pivot Table | https://www.youtube.com/watch?v=aS-jOP7wru8 |
 | Remove Rows | https://www.youtube.com/watch?v=ton3KQksOV0 |
 | Digit to NonDigit | https://www.youtube.com/watch?v=cvsCbNByoNE |
+| Append vs Merge | https://www.youtube.com/watch?v=dEySPkRKxLY |
