@@ -63,3 +63,4 @@
 | Last 6 Months from selected Date | https://www.youtube.com/watch?v=zwPzT3vrc0w |
 | SelectedValue in DAX| https://www.youtube.com/watch?v=xlhQBW11Z2A |
 | ROW function | https://www.youtube.com/watch?v=Hri3CnVko4M |
+| Count, DistinctCount, DistinctCountNoBlank | https://www.youtube.com/watch?v=H2PIHTDXIIs |
