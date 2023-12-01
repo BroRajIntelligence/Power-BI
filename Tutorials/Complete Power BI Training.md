@@ -23,6 +23,7 @@
 |Transpose vs UnPivot in Power Query	|https://www.youtube.com/watch?v=ZG3XwQ3za5k|
 |Using Pivot Table	|https://www.youtube.com/watch?v=aS-jOP7wru8|
 |UnPivot and its usage	|https://www.youtube.com/watch?v=pYvCKJzh_6Y|
+|Unpivot and Pivot | https://www.youtube.com/watch?v=xr1q3cfD4Ow |
 |Refresh with deleted Columns in new Dataset	|https://www.youtube.com/watch?v=bPOQCDluVs8|
 |Append vs Merge	|https://www.youtube.com/watch?v=dEySPkRKxLY|
 |Fuzzy Match in Merge Join in Power BI	|https://www.youtube.com/watch?v=S_2rED2OI7Y|
