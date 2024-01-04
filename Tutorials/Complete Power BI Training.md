@@ -70,6 +70,7 @@
 |Summarize as Temp Table	|https://www.youtube.com/watch?v=mmGw6j18DyU|
 |Treatas in DAX for Unrelated Tables	|https://www.youtube.com/watch?v=3ce8Foka548|
 |Generate and GenerateAll	|https://www.youtube.com/watch?v=18OsTRjOyMY|
+|Add calculated column using AddColumns | https://www.youtube.com/watch?v=RlXOxzqEb4Q |
 |AddColumns vs SelectColumns	|https://www.youtube.com/watch?v=NkifLg7kglU|
 |Top N using Filter,Rankx,TopN,WhatIF Parameter	|https://www.youtube.com/watch?v=m3C-yHD9Gr4|
 |Ranking using Related Table	|https://www.youtube.com/watch?v=5fssTqaGsS4|
