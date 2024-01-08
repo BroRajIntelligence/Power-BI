@@ -75,6 +75,7 @@
 |Top N using Filter,Rankx,TopN,WhatIF Parameter	|https://www.youtube.com/watch?v=m3C-yHD9Gr4|
 |Ranking using Related Table	|https://www.youtube.com/watch?v=5fssTqaGsS4|
 |Dense in RankX	|https://www.youtube.com/watch?v=J5S9u8fQweg|
+|VALUES dax Table Function | https://www.youtube.com/watch?v=do_tpvZqugA 
 |Values() vs Distinct()	|https://www.youtube.com/watch?v=qQoa9R7nedA|
 |Row	|https://www.youtube.com/watch?v=Hri3CnVko4M|
 |DAX Left and Find in Power BI	|https://www.youtube.com/watch?v=Z3U-jRLuWQA|
