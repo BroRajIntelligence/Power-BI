@@ -1,4 +1,4 @@
-![image](https://github.com/BroRajIntelligence/Power-BI/assets/97965349/607647ba-f581-4e32-bf7c-0949450eb602)| Topic | Link |
+| Topic | Link |
 | ----- | ---- |
 |Business Intelligence and Power BI	|https://www.youtube.com/watch?v=KfbMtAmYYWQ|
 |Power BI introduction and Service Signup	|https://www.youtube.com/watch?v=o-OFVbgB3xs|
