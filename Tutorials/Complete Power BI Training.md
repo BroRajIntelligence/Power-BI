@@ -1,4 +1,4 @@
-| Topic | Link |
+![image](https://github.com/BroRajIntelligence/Power-BI/assets/97965349/607647ba-f581-4e32-bf7c-0949450eb602)| Topic | Link |
 | ----- | ---- |
 |Business Intelligence and Power BI	|https://www.youtube.com/watch?v=KfbMtAmYYWQ|
 |Power BI introduction and Service Signup	|https://www.youtube.com/watch?v=o-OFVbgB3xs|
@@ -75,6 +75,7 @@
 |Top N using Filter,Rankx,TopN,WhatIF Parameter	|https://www.youtube.com/watch?v=m3C-yHD9Gr4|
 |Ranking using Related Table	|https://www.youtube.com/watch?v=5fssTqaGsS4|
 |Dense in RankX	|https://www.youtube.com/watch?v=J5S9u8fQweg|
+|Top 10 using RANKX | https://www.youtube.com/watch?v=ek0N5XMaxMA |
 |VALUES dax Table Function | https://www.youtube.com/watch?v=do_tpvZqugA 
 |Values() vs Distinct()	|https://www.youtube.com/watch?v=qQoa9R7nedA|
 |Row	|https://www.youtube.com/watch?v=Hri3CnVko4M|
@@ -150,6 +151,7 @@
 |Interview Questions Summarize and Calculated Table	|https://www.youtube.com/watch?v=xdvVz9o-4p0|
 |Interview Questions Sort by Fiscal Month	|https://www.youtube.com/watch?v=Z2kqi1ccpUo|
 |Interview Question Sort with Month	|https://www.youtube.com/watch?v=1KzaxuAuzOY|
+|Top 10 using RankX | https://www.youtube.com/watch?v=ek0N5XMaxMA |
 
 
 
