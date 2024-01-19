@@ -99,6 +99,7 @@
 |First day of Current Month	|https://www.youtube.com/watch?v=koyBdVMxe6A|
 |Current Month and Previous Month Total	|https://www.youtube.com/watch?v=bPL20ID5mRE|
 |YTD without Time Intelligence functions	|https://www.youtube.com/watch?v=VrhNQGfvOXY|
+|Cascading Slicer without Bidirectional Relationship|https://www.youtube.com/watch?v=GuFa4oJYqQA|
 |Row Level Security in Power BI	|https://www.youtube.com/watch?v=fhMUGRUOtIU|
 |Page Level Security using RLS	|https://www.youtube.com/watch?v=Vw34I0a-_9Q|
 |DAX - Finding Lost and New Customers	|https://www.youtube.com/watch?v=r8gXh5zSeOA|
