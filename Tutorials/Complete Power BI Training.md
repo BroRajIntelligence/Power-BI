@@ -115,6 +115,7 @@
 |Year over Year (YoY) variance %	|https://www.youtube.com/watch?v=qMqQv6MMPH0|
 |Total from Selected Date	|https://www.youtube.com/watch?v=Q7ELmNNXiLc|
 |Average of Selected Last Months Dynamically	|https://www.youtube.com/watch?v=GA_GDoOis1o|
+|Weekly Change of Rate Percentage | https://www.youtube.com/watch?v=lmZwNOJwizA |
 |	||
 |||
 | **VISUALIZATION**	||
