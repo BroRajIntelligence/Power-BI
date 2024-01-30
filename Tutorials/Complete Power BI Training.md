@@ -131,6 +131,7 @@
 |Change of Column or Measure by Selection of Slicer	|https://www.youtube.com/watch?v=FpsDBAuQFtY|
 |Q&A Synonym and Teach	|https://www.youtube.com/watch?v=wAmA8aPKb8c|
 |Drill through in Visualization	|https://www.youtube.com/watch?v=KTVzWss_-vI|
+|Drill through using Button | https://www.youtube.com/watch?v=eRb-6m5j4w0 |
 |Include and Exclude filters in Power BI	|https://www.youtube.com/watch?v=ealIcTrFKZc|
 |ToolTips in Report Pages	|https://www.youtube.com/watch?v=rNoU83v6Syk|
 |	||
