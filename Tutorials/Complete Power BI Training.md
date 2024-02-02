@@ -94,6 +94,7 @@
 |Last Purchase Date	|https://www.youtube.com/watch?v=gcW20FCAKag|
 |Previous Month vs Date Add | https://www.youtube.com/watch?v=J_pyHrMunS8 |
 |Previous Month using Parallel Period, Previous Month & Date Add	|https://www.youtube.com/watch?v=8MkQR57-JO8|
+|Previous Month for Direct Query | https://www.youtube.com/watch?v=Rn7Z8dherAg |
 |YTD in Direct Query Mode	|https://www.youtube.com/watch?v=sWK9RDk-eQo|
 |MTD in Direct Query Mode	|https://www.youtube.com/watch?v=knHqsU4xuds|
 |First day of Current Month	|https://www.youtube.com/watch?v=koyBdVMxe6A|
