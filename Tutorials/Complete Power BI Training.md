@@ -54,6 +54,7 @@
 |Week Number of Month	|https://www.youtube.com/watch?v=Fjto1UP7_vA|
 |Network Days	|https://www.youtube.com/watch?v=3fPOL17nrwc|
 |IN Operator DAX | https://www.youtube.com/watch?v=vJVpKoL_UiY |
+|Intersect function | https://www.youtube.com/watch?v=tpyMXtqnJCw |
 |All, AllExcept, AllSelected, % Calculation	|https://www.youtube.com/watch?v=BlO3Bp9bNws|
 |Use of ALL in getting the difference	|https://www.youtube.com/watch?v=3gKeOn3rdx0|
 |Keep Filters	|https://www.youtube.com/watch?v=x7HIIPLEqzc|
