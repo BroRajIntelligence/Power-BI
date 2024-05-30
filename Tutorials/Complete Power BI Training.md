@@ -28,6 +28,7 @@
 |Append vs Merge	|https://www.youtube.com/watch?v=dEySPkRKxLY|
 |Fuzzy Match in Merge Join in Power BI	|https://www.youtube.com/watch?v=S_2rED2OI7Y|
 |Exception Handling in Power Query	|https://www.youtube.com/watch?v=UPrXdEjs4R8|
+|Transform Date | https://www.youtube.com/watch?v=xmrvuXaTrpg|
 |Adding Index Column | https://www.youtube.com/watch?v=Ovny6T-OtN8 |
 |Creating Calendar in Power Query | https://www.youtube.com/watch?v=TGZVorUIsYo |
 |||
