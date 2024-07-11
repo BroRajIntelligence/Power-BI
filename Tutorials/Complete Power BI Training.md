@@ -102,6 +102,7 @@
 |MTD in Direct Query Mode	|https://www.youtube.com/watch?v=knHqsU4xuds|
 |First day of Current Month	|https://www.youtube.com/watch?v=koyBdVMxe6A|
 |Current Month and Previous Month Total	|https://www.youtube.com/watch?v=bPL20ID5mRE|
+|Previous and Next 5 Months | https://www.youtube.com/watch?v=i_-ccWmQJSo |
 |YTD without Time Intelligence functions	|https://www.youtube.com/watch?v=VrhNQGfvOXY|
 |Cascading Slicer without Bidirectional Relationship|https://www.youtube.com/watch?v=GuFa4oJYqQA|
 |Row Level Security in Power BI	|https://www.youtube.com/watch?v=fhMUGRUOtIU|
