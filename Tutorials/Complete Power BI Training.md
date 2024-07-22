@@ -104,6 +104,7 @@
 |Current Month and Previous Month Total	|https://www.youtube.com/watch?v=bPL20ID5mRE|
 |Previous and Next 5 Months | https://www.youtube.com/watch?v=i_-ccWmQJSo |
 |YTD without Time Intelligence functions	|https://www.youtube.com/watch?v=VrhNQGfvOXY|
+|Count with Fiscal Date using DAX | https://www.youtube.com/watch?v=pUsJuH02SAI |
 |Cascading Slicer without Bidirectional Relationship|https://www.youtube.com/watch?v=GuFa4oJYqQA|
 |Row Level Security in Power BI	|https://www.youtube.com/watch?v=fhMUGRUOtIU|
 |Page Level Security using RLS	|https://www.youtube.com/watch?v=Vw34I0a-_9Q|
