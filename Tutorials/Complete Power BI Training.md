@@ -61,6 +61,7 @@
 |Keep Filters	|https://www.youtube.com/watch?v=x7HIIPLEqzc|
 |Remove Filters	|https://www.youtube.com/watch?v=teAG4Q_VRe4|
 |ALL vs RemoveFilters	|https://www.youtube.com/watch?v=-bZXL3eIVRU|
+|AllExcept for Min and Max | https://www.youtube.com/watch?v=m9SIMgLPtHw |
 |Advanced DAX - Lookup Value	|https://www.youtube.com/watch?v=z5F3Uqa4TOI|
 |Selected Value	|https://www.youtube.com/watch?v=xlhQBW11Z2A|
 |Calculate with and without Filter	|https://www.youtube.com/watch?v=EH3iucbP4VE|
