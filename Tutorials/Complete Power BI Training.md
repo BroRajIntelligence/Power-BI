@@ -87,6 +87,7 @@
 |DAX Left and Find in Power BI	|https://www.youtube.com/watch?v=Z3U-jRLuWQA|
 |Replace vs Substitute	|https://www.youtube.com/watch?v=6cM4dr0_IM4|
 |Value() Dax Text function	|https://www.youtube.com/watch?v=dgIJTT_VOU4|
+|This Year Sales without Filter | https://www.youtube.com/watch?v=cvQfAuUIuE4 |
 |DAX - Closing Balance Month	|https://www.youtube.com/watch?v=oaA-XzL0VsQ|
 |Selected Days Rate and Previous Days Rate	|https://www.youtube.com/watch?v=djtT-j171RM|
 |Advanced DAX - YTD vs Running Total	|https://www.youtube.com/watch?v=srLCYBffKr4|
