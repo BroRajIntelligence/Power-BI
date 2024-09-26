@@ -97,6 +97,7 @@
 |Dates in Period - Static Dynamic	|https://www.youtube.com/watch?v=PFT4oR4c9Qs|
 |Dates Between using Start of Month and End of Month	|https://www.youtube.com/watch?v=1k6zdnafd-0|
 |Last Purchase Date	|https://www.youtube.com/watch?v=gcW20FCAKag|
+|Previous Quarter Percentage Change | https://www.youtube.com/watch?v=eC9Z96wJQf8 |
 |Previous Month vs Date Add | https://www.youtube.com/watch?v=J_pyHrMunS8 |
 |Previous Month using Parallel Period, Previous Month & Date Add	|https://www.youtube.com/watch?v=8MkQR57-JO8|
 |Previous Month for Direct Query | https://www.youtube.com/watch?v=Rn7Z8dherAg |
