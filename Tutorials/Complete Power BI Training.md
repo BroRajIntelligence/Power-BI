@@ -160,6 +160,7 @@
 |	**POWER BI SERVICE**||
 |Persistent Filters in Power BI Service	|https://www.youtube.com/watch?v=DDbiFjuDeCI|
 |Publishing in PBI Service	|https://www.youtube.com/watch?v=G6YpajLm9Rk|
+|Reflecting Updation in Dashboard | https://www.youtube.com/watch?v=vhC-A0Tk0pY|
 |	||
 |	||
 | **INTERVIEW QUESTIONS**	||
