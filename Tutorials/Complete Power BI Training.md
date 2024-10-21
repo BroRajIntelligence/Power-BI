@@ -137,6 +137,7 @@
 |Waterfall Chart	|https://www.youtube.com/watch?v=TSnK41lSHGQ|
 |Scatter Chart	|https://www.youtube.com/watch?v=Is-JcrAlwBg|
 |Slicer - Advanced usage	|https://www.youtube.com/watch?v=4XXsypqq6A4|
+|List Slicer | https://www.youtube.com/watch?v=0JX5vuUcMvE |
 |Change of Column or Measure by Selection of Slicer	|https://www.youtube.com/watch?v=FpsDBAuQFtY|
 |Q&A Synonym and Teach	|https://www.youtube.com/watch?v=wAmA8aPKb8c|
 |Tab Order | https://www.youtube.com/watch?v=0xVtrhFilqw |
