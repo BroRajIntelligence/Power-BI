@@ -157,6 +157,7 @@
 |Sparklines in Tables and Matrix	|https://www.youtube.com/watch?v=ks4H_UqPKGo|
 |Creating Hierarchies - Drill Down	|https://www.youtube.com/watch?v=wdxKkxciZLo|
 |Field Parameters for dynamic measure selection	|https://www.youtube.com/watch?v=hq9It7Pq8UA|
+|Toggle Values in X and Y axis | https://www.youtube.com/watch?v=2iP1Fe-imSY |
 |Page Navigator	|https://www.youtube.com/watch?v=dhQxeYJwMok|
 |	||
 |||
