@@ -4,6 +4,7 @@
 |Power BI introduction and Service Signup	|https://www.youtube.com/watch?v=o-OFVbgB3xs|
 |Data Load from Options and Settings	|https://www.youtube.com/watch?v=2F3SSpa5_xI|
 |Sample Data Sets	|https://www.youtube.com/watch?v=SiFNIRx-8gA|
+|Get Data from Web API | https://www.youtube.com/watch?v=LlM0DggWMEU |
 |||
 |||
 | **GET DATA** |  |
