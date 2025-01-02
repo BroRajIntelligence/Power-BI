@@ -162,6 +162,7 @@
 |Page Navigator	|https://www.youtube.com/watch?v=dhQxeYJwMok|
 |||
 |||
+| **DAX Query View**||
 |Navigate Dax Query View | https://www.youtube.com/watch?v=jGXKjdf-etA |
 |	||
 |||
