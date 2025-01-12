@@ -165,6 +165,7 @@
 | **DAX Query View**||
 |Navigate Dax Query View | https://www.youtube.com/watch?v=jGXKjdf-etA |
 |Advanced Evaluate DAX Query View | https://www.youtube.com/watch?v=y0k2PqI5Fpc |
+|Define keyword in Dax Query View | https://www.youtube.com/watch?v=sBOHpp3euhI |
 |	||
 |||
 |	**POWER BI SERVICE**||
