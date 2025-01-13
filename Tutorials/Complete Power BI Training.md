@@ -130,6 +130,10 @@
 |Best Profit Product | https://www.youtube.com/watch?v=O9rWaZ1EXxM |
 |	||
 |||
+| **Calculated Groups** ||
+|Calculated Group for Totals | https://www.youtube.com/watch?v=jWsARBWbEgA |
+|||
+|||
 | **VISUALIZATION**	||
 |Stacked and Clustered Chart	|https://www.youtube.com/watch?v=pcqsqHgknlE|
 |Line Chart	|https://www.youtube.com/watch?v=lkUIqeIGHGI|
