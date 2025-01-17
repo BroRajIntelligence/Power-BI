@@ -132,6 +132,7 @@
 |||
 | **Calculated Groups** ||
 |Calculated Group for Totals | https://www.youtube.com/watch?v=jWsARBWbEgA |
+|Calculated Groups for Time Intelligence | https://www.youtube.com/watch?v=TbyksfTA2RU |
 |||
 |||
 | **VISUALIZATION**	||
