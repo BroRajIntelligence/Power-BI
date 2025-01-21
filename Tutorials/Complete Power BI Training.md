@@ -128,6 +128,7 @@
 |Average of Selected Last Months Dynamically	|https://www.youtube.com/watch?v=GA_GDoOis1o|
 |Weekly Change of Rate Percentage | https://www.youtube.com/watch?v=lmZwNOJwizA |
 |Best Profit Product | https://www.youtube.com/watch?v=O9rWaZ1EXxM |
+|Percentage of Profit for Discontinued Sub Category | https://www.youtube.com/watch?v=Aptr4xN02gs |
 |	||
 |||
 | **Calculated Groups** ||
