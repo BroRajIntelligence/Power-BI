@@ -129,6 +129,7 @@
 |Weekly Change of Rate Percentage | https://www.youtube.com/watch?v=lmZwNOJwizA |
 |Best Profit Product | https://www.youtube.com/watch?v=O9rWaZ1EXxM |
 |Percentage of Profit for Discontinued Sub Category | https://www.youtube.com/watch?v=Aptr4xN02gs |
+|Average Profit of Discontinued Sub Category | https://www.youtube.com/watch?v=8C67WeiYus4 |
 |	||
 |||
 | **Calculated Groups** ||
